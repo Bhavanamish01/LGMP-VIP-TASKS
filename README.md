@@ -1,4 +1,4 @@
-# LGMP-Projects
+# LGMPVIP-Projects
 LETS GROW MORE INTERNSHIP TASKS
 TASK 1
 :Pencil sketch using PYTHON 3 
@@ -7,3 +7,8 @@ Then the next thing to do is invert the grayscale image also called negative ima
 Inversion can be used to enhance details.
 Then we can finally create the pencil sketch by mixing the grayscale image with the inverted blurry image.
 This can be done by dividing the grayscale image by the inverted blurry image. Since images are just arrays, we can easily do this programmatically using the divide function from the cv2 library in Python.
+"LETS GROW MORE VIP"
+TASK 2 (Intermediate Level Task) Prediction using Decision Tree Algorithm
+AUTHOR : Bhavana Mishra
+Aim :Create the Decision tree classifier and visualize it graphically.
+Objective :The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
